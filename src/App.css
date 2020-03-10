@@ -1,38 +1,134 @@
-.App {
-  text-align: center;
+@font-face {
+  font-family: sansation_light; 
+  src: url(/../fonts/Sansation_Light.ttf); 
+}
+@font-face {
+  font-family: sansation_bold; 
+  src: url(/../fonts/Sansation_Bold.ttf); 
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html, body {
+  width: 99%;
+  margin: 0 auto;
+  height: 100%;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Popap_window {
+  position: absolute;
+  border: 1px solid black;
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 10%;
+  font-family: sansation_light;
+  font-size: 15pt;
+  background-color: AliceBlue;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.popap_main {
+  width: 90%;
+  margin-left: 5%;
+}
+.Popap_window p {
+  margin-bottom: 0px;
+}
+.Popap_window input {
+  font-size: 15pt;
+  width: 100%;
+}
+.priority_status {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  width: 100%;
 }
-
-.App-link {
-  color: #61dafb;
+.priority {
+  flex: 1;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.status {
+  flex: 1;
+}
+.priority p {
+  float: left;
+  font-size: 16pt;
+}
+.priority select {
+  float: right;
+  margin-right: 1%;
+  font-size: 14pt;
+  margin-top: 8%;
+  width: 55%;
+}
+.status p {
+  font-size: 16pt;
+  margin-left: 1%;
+  float: left;
+}
+.status select {
+  float: right;
+  margin-right: -5px;
+  font-size: 14pt;
+  margin-top: 8%;
+  width: 55%;
+}
+.priority_status option {
+  width: 50%;
+}
+.popap_btn {
+  font-size: 14pt;
+  width: 30%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-top: 5%;
+  margin-right: -4px;
+  margin-bottom: 5%;
+}
+.popap_close {
+  position: relative;
+  float: right;
+  margin-top: -10%;
+  height: 40px;
+  width: 40px;
+  background-color: rgb(239, 239, 239);
+  color: rgb(112, 112, 112);
+  font-size: 20px;
+}
+.for_potap_btn {
+  text-align: right;
+}
+.content {
+  margin-top: 1%;
+  width: 80%;
+  margin-left: 10%;
+  border: 1px solid black;
+  padding-bottom: 20%;
+}
+.navigation {
+  display: flex;
+}
+.search_task {
+  flex: 2;
+  margin: 3px;
+}
+#statistic_completed_task, #statistic_in_work_task, #statistic_new_task, #statistic_all_task {
+  flex: 1;
+  text-align: center;
+  margin: 3px;
+}
+#statistic_all_task {
+  background-color: rgb(229, 105, 123, 0.5);
+  margin: 3px;
+}
+#add_task {
+  flex: 1;
+  margin: 3px;
+}
+.footer {
+  width: 90%;
+  margin-left: 5%;
+}
+#content_table {
+  margin-top: 2%;
+  width: 90%;
+  margin-left: 5%;
+}
+#act_delete {
+  color: brown;
 }
