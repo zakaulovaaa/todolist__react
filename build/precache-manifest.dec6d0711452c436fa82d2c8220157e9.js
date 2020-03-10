@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "735516986341dd08a3587f911a7afb3a",
+    "revision": "270b6c9c824eb200d978b58cfc67cfb3",
     "url": "/opapa/index.html"
   },
   {
-    "revision": "8e876c06071d1e0aee3b",
-    "url": "/opapa/static/css/main.5f361e03.chunk.css"
+    "revision": "9492638077310cd973df",
+    "url": "/opapa/static/css/main.2baf20eb.chunk.css"
   },
   {
     "revision": "5dd0e484eff436ca841a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/opapa/static/js/2.217aeb40.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e876c06071d1e0aee3b",
+    "revision": "9492638077310cd973df",
     "url": "/opapa/static/js/main.9a6e1218.chunk.js"
   },
   {
