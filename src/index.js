@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Open_my_popap from './App';
+// import Open_my_popap from './App';
 
 // ReactDOM.render(<App />, document.getElementById('root'));
 
