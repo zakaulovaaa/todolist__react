@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/opapa/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/opapa/static/js/main.eeba98f9.chunk.js",
+    "main.js.map": "/opapa/static/js/main.eeba98f9.chunk.js.map",
+    "runtime-main.js": "/opapa/static/js/runtime-main.ff1993eb.js",
+    "runtime-main.js.map": "/opapa/static/js/runtime-main.ff1993eb.js.map",
+    "static/js/2.a671874e.chunk.js": "/opapa/static/js/2.a671874e.chunk.js",
+    "static/js/2.a671874e.chunk.js.map": "/opapa/static/js/2.a671874e.chunk.js.map",
+    "index.html": "/opapa/index.html",
+    "precache-manifest.734e598b111a7700b931cdae56f45d25.js": "/opapa/precache-manifest.734e598b111a7700b931cdae56f45d25.js",
+    "service-worker.js": "/opapa/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/opapa/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a671874e.chunk.js.LICENSE.txt": "/opapa/static/js/2.a671874e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff1993eb.js",
+    "static/js/2.a671874e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.eeba98f9.chunk.js"
+  ]
+}

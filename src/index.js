@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-
+import './App.css';
 
 
 import { makeStyles } from '@material-ui/core/styles';
@@ -398,3 +398,4 @@ function update_statistic() {
 ReactDOM.render(< My_table rows_task_ = { rows_task } />, document.getElementById( 'content_table' ));
 row_json_get();
 update_statistic();
+
