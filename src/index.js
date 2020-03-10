@@ -27,7 +27,6 @@ let elem = document.getElementById('add_task');
 elem.addEventListener("click", open_popap);
 
 function open_popap() {
-    alert("МЕНЯ НАЖАЛИ");
 
     const element = <Open_my_popap
         popap_openis={true}
