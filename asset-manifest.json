@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/opapa/static/css/main.2baf20eb.chunk.css",
-    "main.js": "/opapa/static/js/main.c3c03f5f.chunk.js",
-    "main.js.map": "/opapa/static/js/main.c3c03f5f.chunk.js.map",
+    "main.js": "/opapa/static/js/main.6f4974dd.chunk.js",
+    "main.js.map": "/opapa/static/js/main.6f4974dd.chunk.js.map",
     "runtime-main.js": "/opapa/static/js/runtime-main.ff1993eb.js",
     "runtime-main.js.map": "/opapa/static/js/runtime-main.ff1993eb.js.map",
     "static/js/2.860e37ae.chunk.js": "/opapa/static/js/2.860e37ae.chunk.js",
     "static/js/2.860e37ae.chunk.js.map": "/opapa/static/js/2.860e37ae.chunk.js.map",
     "index.html": "/opapa/index.html",
-    "precache-manifest.f547a909e424f4e7bc3bd73a93dff6a6.js": "/opapa/precache-manifest.f547a909e424f4e7bc3bd73a93dff6a6.js",
+    "precache-manifest.396f46d1af40526cb01ffc842901ed30.js": "/opapa/precache-manifest.396f46d1af40526cb01ffc842901ed30.js",
     "service-worker.js": "/opapa/service-worker.js",
     "static/css/main.2baf20eb.chunk.css.map": "/opapa/static/css/main.2baf20eb.chunk.css.map",
     "static/js/2.860e37ae.chunk.js.LICENSE.txt": "/opapa/static/js/2.860e37ae.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ff1993eb.js",
     "static/js/2.860e37ae.chunk.js",
     "static/css/main.2baf20eb.chunk.css",
-    "static/js/main.c3c03f5f.chunk.js"
+    "static/js/main.6f4974dd.chunk.js"
   ]
 }
